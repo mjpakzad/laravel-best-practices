@@ -528,7 +528,7 @@ Prefer to use built-in Laravel functionality and community packages instead of u
 
 Task | Standard tools | 3rd party tools
 ------------ | ------------- | -------------
-Authorization | Policies | Entrust, Sentinel and other packages
+Authorization | Policies | Spatie Laravel Permission, Sentinel and other packages
 Compiling assets | Laravel Mix, Vite | Grunt, Gulp, 3rd party packages
 Development Environment | Laravel Sail, Homestead | Docker
 Deployment | Laravel Forge | Deployer and other solutions
